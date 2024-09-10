@@ -1,0 +1,6 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Development\\SpoutPlugin\\PCH.SpoutPlugin.h.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\SpoutPlugin\\Module.SpoutPlugin.cpp.obj"
+	]
+}
